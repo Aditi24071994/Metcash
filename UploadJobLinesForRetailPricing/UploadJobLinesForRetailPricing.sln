@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UploadJobLinesForRetailPricing", "UploadJobLinesForRetailPricing\UploadJobLinesForRetailPricing.csproj", "{E9A31440-2BBE-405D-ABC1-D430325DF1DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9A31440-2BBE-405D-ABC1-D430325DF1DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9A31440-2BBE-405D-ABC1-D430325DF1DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9A31440-2BBE-405D-ABC1-D430325DF1DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9A31440-2BBE-405D-ABC1-D430325DF1DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A79683B9-EAA3-45B3-A78E-0802D65229BD}
+	EndGlobalSection
+EndGlobal

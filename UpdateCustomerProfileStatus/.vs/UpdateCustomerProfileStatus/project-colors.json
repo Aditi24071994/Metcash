@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9f2bba1b-8b78-4ba7-aaa4-f0eb5bb35bf5": {
+      "ProjectGuid": "9f2bba1b-8b78-4ba7-aaa4-f0eb5bb35bf5",
+      "DisplayName": "UpdateCustomerProfileStatus",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
